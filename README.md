@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedPatrol
+- 👋 Hi, I’m an individual trying to get into IT
 - 👀 I’m interested in coding and security
 - 🌱 I’m currently learning coding and cyber security
 - 💞️ I’m looking to collaborate on Github
